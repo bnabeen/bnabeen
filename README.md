@@ -47,3 +47,9 @@
     <img src="https://img.shields.io/badge/Email-%23D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
+
+<p align="center">
+   <img src="https://komarev.com/ghpvc/?username=bnabeen&label=Profile%20views&color=4a4a4a&style=flat" alt="bnabeen" />
+</p>
+
+
